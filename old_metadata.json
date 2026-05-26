@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "FirstName": "Text",
+    "LastName": "Text",
+    "Email": "Email",
+    "Phone": "Phone"
+  },
+  "objects": ["Contact", "Lead"]
+}
